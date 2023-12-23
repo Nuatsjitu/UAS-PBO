@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ScoreBoard\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=title\ score\ highscore
+comment1.target=ScoreBoard(java.lang.String,\ int,\ int)
+comment2.params=scores
+comment2.target=ScoreBoard(int[])
+comment3.params=
+comment3.target=ScoreBoard()
+comment4.params=bol
+comment4.target=boolean\ makeCredits(boolean)
+comment5.params=header\ title\ score\ highscore
+comment5.target=void\ makeScore(java.lang.String,\ java.lang.String,\ int,\ int)
+comment6.params=scores
+comment6.target=void\ makelist(int[])
+numComments=7

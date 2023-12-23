@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Tshape
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tshape\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Tshape\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ rotate()
+comment3.params=
+comment3.target=int[]\ createIt()
+comment4.params=
+comment4.target=boolean\ checkDown()
+comment5.params=
+comment5.target=boolean\ checkLeft()
+comment6.params=
+comment6.target=boolean\ checkRight()
+numComments=7
